@@ -7,3 +7,5 @@ Aquaman
 Hulk
 Flash
 Homem Aranha
+Thor
+
