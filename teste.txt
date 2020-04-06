@@ -4,3 +4,5 @@ Capitão América
 Homem de Ferro
 Batman
 Aquaman
+Hulk
+Flash
